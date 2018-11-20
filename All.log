@@ -1,0 +1,605 @@
+
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LID\w_wo_RB_2Subcatchments.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.2679       0.2679       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.2684       0.2684       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.2684       0.2684       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LID\w_wo_RG_2Subcatchments.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.2589       0.2589       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.2594       0.2594       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.2594       0.2594       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LID\w_wo_GR_2Subcatchments.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.2609       0.2609       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.2615       0.2615       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.2615       0.2615       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LID\w_wo_PP_2Subcatchments.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.2542       0.2542       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.2548       0.2548       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.2548       0.2548       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LID\w_wo_SWALE_2Subcatchments.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.3607       0.3607       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.3625       0.3625       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.3625       0.3625       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\backinflow.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9618      35.9323      35.9095       0.3086       0.0236       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow               -1.6898      22.1729      22.1949       0.9762       0.0741       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                  -2.0592      12.5564      12.5341       1.0320       0.0755       0.0029
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.5894      12.9591      12.9571       0.0377       0.0020       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\Example1.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       2.1592       2.1592       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       3.7319       3.7316       0.0010       0.0002       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       2.1621       2.1621       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000      11.9952      11.9926       0.0121       0.0030       0.0003
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000       9.8331       9.8305       0.0125       0.0030       0.0003
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       1.3575       1.3573       0.0007       0.0002       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\Example1a.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       2.1592       2.1593       0.0004       0.0001       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       3.7319       3.7306       0.0063       0.0022       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       2.1621       2.1621       0.0027       0.0010       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000      11.9952      11.9936       0.0422       0.0160       0.0012
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000       9.8331       9.8315       0.0410       0.0152       0.0011
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       1.3575       1.3562       0.0061       0.0021       0.0002
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\Example2a.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      18.5419      18.5471       0.0152       0.0093       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     265.9914     266.0351       0.2955       0.1436       0.0092
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     215.3664     215.4101       0.2975       0.1436       0.0093
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      12.5859      12.5903       0.0135       0.0080       0.0004
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\Example2b.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                 -1.0239      30.3999      18.5471      21.3377      11.9393       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9469     297.0747     266.0351      59.3991      34.3552       1.8562
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.8494     246.4497     215.4101      59.4105      34.3597       1.8566
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9535      13.3043      12.5903       1.2928       0.7522       0.0404
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\Example2c.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      25.7223      25.7203       0.0263       0.0170       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     298.9360     298.9552       0.2280       0.1361       0.0071
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     248.3110     248.3302       0.2308       0.1362       0.0072
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      14.2675      14.2706       0.0127       0.0079       0.0004
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\Example4-Drain
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\Extran4mod_v12.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9950      14.2817      14.6709       0.8101       0.4822       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9993     305.3058     305.2757       8.1681       4.0941       0.0170
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9978     254.6808     254.6507       9.5736       5.0811       0.0199
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9912      13.7061      14.1333       0.8870       0.5178       0.0018
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\Jutras2_v12.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9991      12.6742      12.6737       0.0011       0.0005       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       1.0000       1.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9999       2.8464       2.8464       0.0020       0.0006       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9999       1.8460       1.8460       0.0020       0.0006       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9996       3.0140       3.0139       0.0005       0.0001       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\LidRmvls_v12.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       1.1419       1.1419       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.5171       0.5171       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.5171       0.5171       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\LEW_update_v5113\PP-Regen.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         0.1366       0.0169       0.0064       0.0643       0.0105       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                0.1366       0.0170       0.0064       0.0643       0.0106       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.1366       0.0170       0.0064       0.0643       0.0106       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user1.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       1.3280       1.3280       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9893      10.7189      10.6535       1.7310       0.3241       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       1.3292       1.3292       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9987      13.8685      13.8677       1.0738       0.4033       0.0026
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9955      12.5325      12.5317       1.1313       0.4087       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9981       7.8877       7.9116       0.3972       0.1894       0.0009
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user2.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000     197.6582     197.6582       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000     102.8343     102.8311       0.0303       0.0083       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     197.6959     197.6959       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000    4821.1581    4821.3068      10.6204       1.3451       0.0246
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000    4621.7603    4621.6623       9.5989       1.3595       0.0222
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      98.2236      98.2209       0.0240       0.0075       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user3.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      13.4266      13.4266       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999     153.5566     153.5572       0.0290       0.0052       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      13.4286      13.4286       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     131.6714     131.6712       0.0310       0.0075       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     117.1237     117.1235       0.0313       0.0076       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000     108.8714     108.8716       0.0025       0.0010       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user4.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      10.1060      10.1060       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999      46.5493      46.5350       0.1865       0.0641       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      15.7539      15.7539       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     433.5054     433.4060       3.9609       1.4800       0.0138
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9999     417.7514     417.6521       3.9767       1.4830       0.0138
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9999      47.3699      47.3547       0.1940       0.0666       0.0007
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user5.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      88.0682      88.0682       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999     249.2820     249.2546       1.0538       0.2494       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     149.5480     149.6118       1.6438       0.1925       0.0057
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9927    3908.2824    3915.2981     626.5456     131.7785       2.1831
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9922    3691.3647    3692.6335     644.3049     143.4705       2.2450
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.7971     264.3852     264.3545       0.9479       0.2243       0.0033
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user1_average_report.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       1.3280       1.3280       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9950      10.7132      10.6535       1.1377       0.2511       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                0.9978       1.3292       1.3292       0.1521       0.0430       0.0004
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9987      13.8683      13.8677       0.6980       0.2446       0.0017
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9972      12.5322      12.5317       0.6392       0.2249       0.0015
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9988       7.8863       7.9116       0.2721       0.1237       0.0006
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user2_average_report.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000     197.6582     197.6582       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9939     102.7943     102.8311       5.5135       1.1936       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                0.9960     197.3760     197.6959      74.7580      12.3713       0.1731
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9860    4820.3631    4821.3068     566.3025     116.7439       1.3109
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9686    4616.2458    4621.6623     513.9137     107.4466       1.1896
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9769      98.1822      98.2209       3.2605       0.8682       0.0075
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user3_average_report.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      13.4266      13.4266       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9993     153.5432     153.5572       3.2045       1.2243       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                0.9971      13.4286      13.4286       1.7868       0.4360       0.0050
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9975     131.6616     131.6712       5.1587       1.9969       0.0143
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9964     117.1145     117.1235       4.3703       1.7427       0.0121
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9996     108.8577     108.8716       1.1095       0.4860       0.0031
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user4_average_report.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      10.1060      10.1060       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9936      46.5051      46.5350       2.0955       0.7479       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                0.9877      15.7539      15.7539       3.4652       0.9601       0.0120
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9853     433.2994     433.4060      72.7119      21.4914       0.2525
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9856     417.5454     417.6521      69.9444      20.6603       0.2429
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9937      47.3232      47.3547       2.1223       0.7589       0.0074
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user5_average_report.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      88.0682      88.0682       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9899     249.0735     249.2546      13.2731       2.5763       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                0.9870     150.2080     149.6118      86.6167      15.5199       0.3018
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9632    3905.4676    3915.2981    1823.9526     410.3865       6.3552
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9579    3631.1260    3692.6335    1806.4303     393.6321       6.2942
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.8717     264.1409     264.3545      11.2203       2.2504       0.0391
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user1_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       1.3280       1.3280       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9893      10.7189      10.6535       1.7310       0.3241       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       1.3292       1.3292       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9987      13.8685      13.8677       1.0738       0.4033       0.0026
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9955      12.5325      12.5317       1.1313       0.4087       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9981       7.8877       7.9116       0.3972       0.1894       0.0009
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user2_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000     197.6582     197.6582       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9855     101.2202     102.8311      10.4986       2.5118       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     197.6959     197.6959       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9922    4835.6743    4821.3068     516.5882     155.5388       1.1958
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9553    4633.3641    4621.6623     572.1210     165.6448       1.3244
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9450      98.9756      98.2209       7.9935       2.9119       0.0185
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user3_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      13.4266      13.4266       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.6221     146.7330     153.5572      51.4071      19.3530       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      13.4286      13.4286       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9322     124.4917     131.6712      41.1529      17.4424       0.1143
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.8337     109.6544     117.1235      42.6759      17.8343       0.1185
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9510     104.0223     108.8716      11.9148       5.4293       0.0331
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user4_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      10.1060      10.1060       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999      46.5493      46.5350       0.1875       0.0645       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      15.7539      15.7539       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     433.5049     433.4060       4.0955       1.5102       0.0142
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9999     417.7509     417.6521       4.1116       1.5133       0.0143
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9975      47.4192      47.3547       0.3859       0.1162       0.0013
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user5_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      88.0682      88.0682       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9896     249.1287     249.2546      14.1670       4.1800       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     149.5703     149.6118       1.3504       0.1781       0.0047
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9451    3940.8863    3915.2981    1893.4737     385.4881       6.5975
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                  -0.0697    3740.3005    3692.6335    2057.0522     410.1077       7.1674
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.6081     269.1337     264.3545      13.2374       7.3252       0.0461
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user1_2threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       1.3280       1.3280       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9893      10.7189      10.6535       1.7310       0.3241       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       1.3292       1.3292       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9987      13.8685      13.8677       1.0738       0.4033       0.0026
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9955      12.5325      12.5317       1.1313       0.4087       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9981       7.8877       7.9116       0.3972       0.1894       0.0009
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user2_2threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000     197.6582     197.6582       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000     102.8343     102.8311       0.0303       0.0083       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     197.6959     197.6959       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000    4821.1581    4821.3068      10.6204       1.3451       0.0246
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000    4621.7603    4621.6623       9.5989       1.3595       0.0222
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      98.2236      98.2209       0.0240       0.0075       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user3_2threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      13.4266      13.4266       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999     153.5566     153.5572       0.0290       0.0052       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      13.4286      13.4286       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     131.6714     131.6712       0.0310       0.0075       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     117.1237     117.1235       0.0313       0.0076       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000     108.8714     108.8716       0.0025       0.0010       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user4_2threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      10.1060      10.1060       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999      46.5493      46.5350       0.1865       0.0641       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      15.7539      15.7539       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     433.5054     433.4060       3.9609       1.4800       0.0138
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9999     417.7514     417.6521       3.9767       1.4830       0.0138
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9999      47.3699      47.3547       0.1940       0.0666       0.0007
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user5_2threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      88.0682      88.0682       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999     249.2820     249.2546       1.0538       0.2494       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     149.5480     149.6118       1.6438       0.1925       0.0057
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9927    3908.2824    3915.2981     626.5456     131.7785       2.1831
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9922    3691.3647    3692.6335     644.3049     143.4705       2.2450
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.7971     264.3852     264.3545       0.9479       0.2243       0.0033
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user1_8threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       1.3280       1.3280       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9893      10.7189      10.6535       1.7310       0.3241       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       1.3292       1.3292       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9987      13.8685      13.8677       1.0738       0.4033       0.0026
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9955      12.5325      12.5317       1.1313       0.4087       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9981       7.8877       7.9116       0.3972       0.1894       0.0009
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user2_8threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000     197.6582     197.6582       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000     102.8343     102.8311       0.0303       0.0083       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     197.6959     197.6959       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000    4821.1581    4821.3068      10.6204       1.3451       0.0246
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000    4621.7603    4621.6623       9.5989       1.3595       0.0222
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      98.2236      98.2209       0.0240       0.0075       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user3_8threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      13.4266      13.4266       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999     153.5566     153.5572       0.0290       0.0052       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      13.4286      13.4286       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     131.6714     131.6712       0.0310       0.0075       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     117.1237     117.1235       0.0313       0.0076       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000     108.8714     108.8716       0.0025       0.0010       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user4_8threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      10.1060      10.1060       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999      46.5493      46.5350       0.1865       0.0641       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      15.7539      15.7539       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     433.5054     433.4060       3.9609       1.4800       0.0138
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9999     417.7514     417.6521       3.9767       1.4830       0.0138
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9999      47.3699      47.3547       0.1940       0.0666       0.0007
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_USER\user5_8threads.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000      88.0682      88.0682       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999     249.2820     249.2546       1.0538       0.2494       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     149.5480     149.6118       1.6438       0.1925       0.0057
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9927    3908.2824    3915.2981     626.5456     131.7785       2.1831
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9922    3691.3647    3692.6335     644.3049     143.4705       2.2450
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.7971     264.3852     264.3545       0.9479       0.2243       0.0033
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_ROUTING\test1.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999      35.4228      35.4605       0.1606       0.0718       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      60.0000      60.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     660.0194     660.0165       3.0828       0.6587       0.0051
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     600.0191     600.0153       3.0738       0.6587       0.0051
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9999      25.4375      25.4722       0.1340       0.0620       0.0002
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_ROUTING\test2.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      31.1892      31.1691       0.1600       0.0458       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      25.0000      25.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9999     148.1893     148.1753       0.6171       0.2454       0.0009
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9999     123.1893     123.1753       0.6171       0.2454       0.0009
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      18.5174      18.5157       0.0264       0.0192       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_ROUTING\test3.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9991      95.5207      95.4476       1.8089       0.2669       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      49.6519      49.6519       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9997     618.6973     618.5584       5.7199       0.9369       0.0079
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9997     569.0454     568.9065       5.7199       0.9369       0.0079
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9999      34.0766      34.0646       0.0974       0.0239       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_ROUTING\test4.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9997     240.6725     240.6241       1.0381       0.1319       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      60.0000      60.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9997     657.9795     657.9262       7.9147       0.8822       0.0132
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9997     478.7884     478.7360       7.9147       0.8822       0.0132
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9993      29.1921      29.1902       0.2531       0.0430       0.0004
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_ROUTING\test5.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9942      36.8349      36.8183       0.3793       0.0218       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      19.7917      19.7917       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9999     217.1628     217.1314       1.0387       0.1194       0.0014
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9999     197.3688     197.3372       1.0366       0.1196       0.0014
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9962      19.8747      19.8660       0.2033       0.0134       0.0003
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXAMPLES\example1.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       2.1592       2.1592       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       3.7319       3.7316       0.0010       0.0002       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       2.1621       2.1621       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000      11.9952      11.9926       0.0121       0.0030       0.0003
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000       9.8331       9.8305       0.0125       0.0030       0.0003
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       1.3575       1.3573       0.0007       0.0002       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXAMPLES\example2.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      26.6515      26.6543       0.0109       0.0065       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     285.8670     285.8748       0.1587       0.0809       0.0050
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     235.2420     235.2498       0.1598       0.0809       0.0050
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      13.1867      13.1891       0.0088       0.0056       0.0003
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXAMPLES\example3.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9542       7.0069       7.1056       1.2421       0.8077       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                0.9999       0.7968       0.7966       0.0034       0.0004       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9648       6.3382       6.3287       0.4192       0.2154       0.0015
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9617       5.5411       5.5326       0.4246       0.2179       0.0015
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9898       3.8660       3.8642       0.0751       0.0426       0.0003
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXAMPLES\example4.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       1.3205       1.3205       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.6110       0.6110       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.6110       0.6110       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXAMPLES\example5.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.0641       0.0641       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.2565       0.2565       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.2565       0.2565       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXAMPLES\example6.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       4.1332       4.1332       0.0001       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      51.3886      51.3898       0.0198       0.0111       0.0005
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     153.3242     153.3242       0.0035       0.0019       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     101.9356     101.9356       0.0035       0.0019       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       1.9167       1.9167       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran1.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      26.6774      26.6842       0.0161       0.0089       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     286.0855     286.1555       0.2308       0.1107       0.0072
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     235.4605     235.5305       0.2361       0.1135       0.0074
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      13.2273      13.2328       0.0137       0.0076       0.0004
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran2.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      29.8380      29.8426       0.0106       0.0064       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     285.8104     285.8570       0.1719       0.0888       0.0054
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     235.1854     235.2320       0.1773       0.0917       0.0055
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      14.7911      14.7951       0.0095       0.0059       0.0003
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran3.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      13.8873      13.8890       0.0082       0.0057       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     305.1828     305.1763       0.1835       0.0924       0.0019
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     254.5578     254.5513       0.1851       0.0924       0.0019
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      14.4045      14.4061       0.0073       0.0052       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran4.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      14.1018      14.1042       0.0078       0.0055       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     305.6385     305.6403       0.1703       0.0809       0.0053
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     255.0135     255.0153       0.1737       0.0809       0.0054
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      13.4358      13.4379       0.0074       0.0051       0.0002
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran5.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      32.4965      32.5025       0.0225       0.0093       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     294.9761     295.0240       0.2896       0.1076       0.0091
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     244.3511     244.3990       0.2918       0.1076       0.0091
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      14.5652      14.5694       0.0125       0.0067       0.0004
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran6.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9996      31.0324      31.3101       1.4475       0.3230       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9994     283.9273     283.7037       2.3596       0.7868       0.0737
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9994     233.3023     233.0787       2.3931       0.7962       0.0748
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9994      13.2169      13.2375       0.1854       0.0418       0.0058
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran7.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      26.1260      26.1283       0.0168       0.0093       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     299.6014     299.5155       0.4997       0.1556       0.0156
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     248.9764     248.8905       0.5045       0.1563       0.0158
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      13.0794      13.0806       0.0129       0.0073       0.0004
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran9.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       3.9089       3.9089       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.3077       0.3077       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.6052       0.6052       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000       0.2975       0.2975       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       0.2250       0.2250       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran8a.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       4.1994       4.1992       0.0002       0.0001       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      20.0000      20.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9995      53.0270      53.0221       0.0081       0.0070       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9995      32.9621      32.9577       0.0081       0.0070       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       3.2000       3.1998       0.0001       0.0001       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran8b.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       9.4761       9.4816       0.0189       0.0155       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      31.6472      31.6472       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     127.5381     127.5301       0.2300       0.1735       0.0192
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000      95.8909      95.8829       0.2315       0.1735       0.0193
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       7.7511       7.7549       0.0162       0.0136       0.0014
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran10.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      40.6716      40.6716       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      91.3333      91.3333       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     268.8494     268.8494       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000     177.5160     177.5160       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       3.1227       3.1227       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran1_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9853      25.9433      26.6842       4.5220       0.9896       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9967     291.2952     286.1555      13.8628       7.2306       0.4332
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9946     240.6702     235.5305      13.8739       7.2367       0.4336
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9837      13.6865      13.2328       0.8363       0.4564       0.0261
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran2_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9854      29.0886      29.8426       4.4995       0.9763       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9967     290.9959     285.8570      13.8594       7.2367       0.4331
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9946     240.3709     235.2320      13.8702       7.2423       0.4334
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9837      15.2431      14.7951       0.8258       0.4500       0.0258
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran3_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9989      13.7364      13.8890       0.3724       0.2056       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9991     305.1226     305.1763       7.2110       3.6244       0.0751
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9978     254.4976     254.5513       8.7325       4.6692       0.0910
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9982      14.3933      14.4061       0.3803       0.2174       0.0040
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran4_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.5369      16.9041      14.1042       5.7510       3.2973       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9760     305.5320     305.6403      27.3788      15.3033       0.8556
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9283     254.9070     255.0153      43.9432      25.7961       1.3732
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.8964      14.7819      13.4379       3.0082       1.8251       0.0940
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran5_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9964      31.6865      32.5025       2.5541       1.0905       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9939     301.4024     295.0240      19.7922      11.0292       0.6185
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9780     250.7774     244.3990      19.7974      11.0301       0.6187
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9787      14.9245      14.5694       1.1211       0.6165       0.0350
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran6_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9993      31.2112      31.3101       1.8246       0.4613       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9996     283.5299     283.7037       2.4931       0.8245       0.0779
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9996     232.9049     233.0787       2.5385       0.8392       0.0793
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9999      13.2605      13.2375       0.0817       0.0328       0.0026
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran7_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9751      24.9480      26.1283       6.3787       1.3844       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      50.6250      50.6250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9985     304.3375     299.5155      11.3457       6.5127       0.3546
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9974     253.7125     248.8905      11.6231       6.6048       0.3632
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9867      13.4886      13.0806       0.9618       0.4755       0.0301
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran9_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       3.9089       3.9089       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.3077       0.3077       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.6052       0.6052       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000       0.2975       0.2975       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       0.2250       0.2250       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran8a_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       4.1994       4.1992       0.0002       0.0001       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      20.0000      20.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9995      53.0270      53.0221       0.0081       0.0070       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9995      32.9621      32.9577       0.0081       0.0070       0.0027
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       3.2000       3.1998       0.0001       0.0001       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran8b_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       9.4761       9.4816       0.0189       0.0155       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      31.6472      31.6472       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000     127.5381     127.5301       0.2300       0.1735       0.0192
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000      95.8909      95.8829       0.2315       0.1735       0.0193
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       7.7511       7.7549       0.0162       0.0136       0.0014
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_EXTRAN\extran10_slot.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9996      40.5181      40.6716       0.2048       0.1681       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      91.3333      91.3333       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9930     268.4998     268.8494       3.6365       0.8118       0.1212
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9372     177.1665     177.5160       5.7555       1.1862       0.1919
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9664       3.5588       3.1227       0.4714       0.4361       0.0157
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_update_v5111\bioretention.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.0122       0.0122       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.0138       0.0138       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.0138       0.0138       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_update_v5111\rain_garden.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.0460       0.0460       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_update_v5111\gate_control_2.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9779       4.7915       4.8073       0.9796       0.1182       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9538       9.9521       9.9591      15.3399       1.0783       0.0015
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9534       9.9486       9.9557      15.3381       1.0783       0.0015
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9789       1.0007       1.0156       0.9130       0.1016       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_update_v5111\gate_control_3.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9785       7.2253       7.2822       1.8020       0.3192       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9511      35.2452      35.2506      34.8005       3.6223       0.0644
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9506      35.2452      35.2506      34.8005       3.6223       0.0644
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9798       3.0996       3.1792       1.6639       0.2964       0.0031
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_update_v5111\catchment_as_outfall.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.3537       0.3537       0.0006       0.0004       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.4189       0.4187       0.0015       0.0008       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.3539       0.3539       0.0006       0.0004       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.8865       0.8864       0.0024       0.0015       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000       0.5326       0.5326       0.0017       0.0011       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       0.2513       0.2511       0.0009       0.0005       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\OWA_update_v5111\events_example.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.2362       0.2362       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       1.1132       1.1135       0.0030       0.0008       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.1292       0.1292       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.7839       0.7839       0.0078       0.0011       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000       0.6541       0.6542       0.0079       0.0011       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       0.6694       0.6697       0.0026       0.0007       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\exam80a.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      30.0513      30.0278       0.0500       0.0301       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      29.1662      29.1550       0.0163       0.0114       0.0002
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9999     162.0616     162.0227       0.3831       0.1368       0.0053
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9998     132.8954     132.8563       0.3823       0.1367       0.0053
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      20.1786      20.1690       0.0185       0.0130       0.0003
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\huff_distributions.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       0.0030       0.0030       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000       0.0000       0.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000       0.0030       0.0030       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000       0.0030       0.0030       0.0000       0.0000       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\all_culverts.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9997     310.0463     310.8646       3.8999       2.0542       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     285.6392     285.7109       0.6352       0.1761       0.0021
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9999    1143.2214    1143.3782       9.4242       2.4115       0.0314
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9999     857.5822     857.7974       9.0529       2.3521       0.0302
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9997     223.0144     223.5213       2.6032       1.4035       0.0087
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\critical_downstream_example.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9977      61.4839      61.3656       0.8291       0.1509       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      24.2178      24.2187       0.0035       0.0009       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9989      81.0794      81.0096       0.8456       0.2117       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9988      56.8615      56.7918       0.8456       0.2117       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9997      16.1465      16.1150       0.1081       0.0317       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\critical_upstream_downstream_example_sw5.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9941      57.3014      56.9998       1.8778       0.4221       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      18.7592      18.7811       0.0435       0.0253       0.0002
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9966     172.6296     171.9073       4.7323       1.1974       0.0263
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9962     153.8705     153.1504       4.7151       1.1926       0.0262
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9945      15.8887      15.7678       0.4978       0.1318       0.0028
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\critical_upstream_example_SW5.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9986      61.1691      60.9153       0.7399       0.2589       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      24.0255      24.0266       0.0040       0.0012       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9969      66.5809      66.4783       1.3639       0.4389       0.0076
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9965      42.5555      42.4529       1.3639       0.4389       0.0076
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9983      12.6192      12.5612       0.2040       0.0580       0.0011
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\extran_master_swmm34_example_SW5.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9999     177.1967     177.2183       1.6919       0.1331       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     336.4144     336.3739       0.5553       0.1259       0.0002
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9673    1851.7183    1851.8554       3.9807       0.8607       0.0014
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9518    1161.2897    1161.3631       3.7975       0.8499       0.0013
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000     105.8493     105.8611       0.0669       0.0357       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\extran_pid_master.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9996     202.7930     202.6599       3.2236       0.5454       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000    2654.3980    2653.3886      19.0640       4.1123       0.0530
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9780    4617.0538    4614.9800      29.2647       7.0833       0.0813
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9810    1582.6549    1581.8762      16.4017       5.1553       0.0456
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9999     123.0291     122.9827       0.3387       0.1472       0.0009
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\orifice_closing_rules.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9993     212.1502     211.9603       2.7747       0.4926       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     444.7394     445.0156       4.1713       1.0130       0.0116
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9846    2222.5129    2220.6161      13.5755       3.6981       0.0377
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9819    1402.8766    1401.4604      11.4175       3.4351       0.0317
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9999     118.1921     118.0652       0.3675       0.1577       0.0010
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\USGS_NURP_BrowardCounty_WQ.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000       3.2244       3.2244       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9993      13.7898      13.7595       0.2163       0.0814       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                0.9970       3.2499       3.2249       0.2988       0.1390       0.0066
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9950       8.3147       8.5015       0.9993       0.2770       0.0222
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9896       4.5903       4.8168       1.0180       0.2879       0.0226
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9994       3.4420       3.4501       0.0832       0.0358       0.0018
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\STEEP_adverse_example_1_SW5.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9979      48.0462      47.9115       0.6301       0.1502       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      17.7121      17.7248       0.0348       0.0129       0.0001
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9987     190.5193     190.1299       2.1064       0.4733       0.0053
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9986     172.8071     172.4178       2.0992       0.4718       0.0053
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9965      17.8281      17.7609       0.3006       0.0675       0.0008
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\vsp_master.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9998     206.8218     206.7646       1.5471       0.3145       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     429.1250     429.1250       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9856    2329.2964    2329.3553       7.1997       1.7868       0.0200
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9810    1491.8714    1491.9660       7.2534       1.8024       0.0201
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000     122.1502     122.1463       0.0919       0.0493       0.0003
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\PhantomStorage.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      14.9523      14.9446       0.0184       0.0085       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      57.1865      57.1865       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9795     354.3790     353.5498      12.8136       5.6819       0.0178
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9662     295.4822     294.8246      13.1693       5.8353       0.0183
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000       3.7891       3.7878       0.0042       0.0017       0.0000
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\EPANET_SWMM_Hazen_Williams_comparison.inp
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\Greenville_EPA.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Subcatchment Runoff         1.0000    1600.6486    1600.6486       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9938     350.0988     349.3240      13.1230       5.6267       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000    1638.5029    1634.5207      23.0629      12.2889       0.9610
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9733   10662.7354   10666.2981      92.9946      30.7936       3.8748
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9729    8522.6998    8524.7862      83.1273      24.0226       3.4636
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9981     172.0762     171.9205       0.6231       0.2761       0.0260
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\EDSYPHON.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.9978      46.7167      46.5274       0.9423       0.2208       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000      19.7666      19.7788       0.0550       0.0243       0.0005
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.9992     114.4616     114.2086       1.2634       0.3434       0.0106
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.9993      92.8166      92.6101       1.2250       0.3252       0.0103
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  0.9981      10.2851      10.2493       0.1303       0.0380       0.0011
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\Kevin_test_model_v12.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.5203      28.2494      23.5191       9.5846       5.5079       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     200.0000     200.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.4117     308.5031     320.1145      67.3674      44.5605       0.0936
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.6264     108.5031     116.0169      60.9369      44.5605       0.0846
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                 -7.0886       3.5588       3.5172       0.0642       0.0417       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\Kevin_test_model.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  0.5203      28.2494      23.5191       9.5846       5.5079       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     200.0000     200.0000       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                0.4117     308.5031     320.1145      67.3674      44.5605       0.0936
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   0.6264     108.5031     116.0169      60.9369      44.5605       0.0846
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                 -7.0886       3.5588       3.5172       0.0642       0.0417       0.0001
+ Opening D:\SWMMandSoftware\SWMM5.013_June2018\EPASWMM5.1.013\Swmm5.1.013UpdateTests\SWMM5_NCIMM\M.inp
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Node Depth                  1.0000      12.6985      12.6985       0.0025       0.0004       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Lateral Flow                1.0000     173.1480     173.1480       0.0000       0.0000       0.0000
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Total Inflow                1.0000    1446.2767    1446.2743       0.4045       0.0563       0.0003
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Flow                   1.0000    1272.2252    1272.2226       0.4077       0.0569       0.0003
+ Mean NSE, Mean Sim, Mean Obs, RMSE, MAE, MSLSE Link Depth                  1.0000      12.6104      12.6104       0.0017       0.0003       0.0000
