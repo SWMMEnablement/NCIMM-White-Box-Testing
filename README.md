@@ -53,7 +53,7 @@
 *  SkewnessSim,    // Skewness of Simulated
 *  KurtosisSim,    // Kurtosis of Simulated
 *  SkewnessObs,    // Skewness of Observed
-*  KurtosisPbs,    // Kurtosis of Observed
+*  KurtosisObs,    // Kurtosis of Observed
 *  LogNASH,        // Log Nash–Sutcliffe Efficiency
 *  IndexD,         // Index of Agreement
 *  NASH};          // Nash–Sutcliffe Efficiency
