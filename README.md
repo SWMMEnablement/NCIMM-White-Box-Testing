@@ -41,7 +41,7 @@
 * FcalibrationNSA;          // Calibration file Innovyze RED 2018         Node DQDH
 
 
-# define MAX_STATISTICAL_RESULTS 15     // NCIMM
+#  MAX_STATISTICAL_RESULTS 
 *  enum  StatsType {
 *  SIM,            // Simulated Mean*
 *  OBS,            // Observed Mean
