@@ -20,3 +20,40 @@
 * Weirs              v13 and v12 inp test files
 * XPSWMM             v13 and v12 inp test files  
 
+# NCIMM White Box Calibration File Types
+
+* Flog,                     // Other SWMM5 Output File Comparion log   // NCIUMM 2018
+* FoutCompare,              // Other SWMM5 Output File                 //
+* Fall_log,                 // All log files combined                  // 
+* FcalibrationS,            // Calibration file Innovyze RED 2016        Storage Volume in a Storage Node
+* FcalibrationR,            // Calibration file Innovyze RED 2016         Runoff 
+* FcalibrationE,            // Calibration file Innovyze RED 2016         Groundwater Elevation
+* FcalibrationG,            // Calibration file Innovyze RED 2016         Groundwater Q
+* FcalibrationH,            // Calibration file Innovyze RED 2016         Node Depth
+* FcalibrationNH,           // Calibration file Innovyze RED 2016         Node Head
+* FcalibrationNF,           // Calibration file Innovyze RED 2016         Node Flooding
+* FcalibrationL,            // Calibration file Innovyze RED 2016         Node Lateral Q
+* FcalibrationQ,            // Calibration file Innovyze RED 2016         Link Q
+* FcalibrationV,            // Calibration file Innovyze RED 2016         Link V
+* FcalibrationD,            // Calibration file Innovyze RED 2016         Link D
+* FcalibrationHGL,          // Calibration file Innovyze RED 2016         Link HGL
+* FcalibrationNA,           // Calibration file Innovyze RED 2018         Node Area
+* FcalibrationNSA;          // Calibration file Innovyze RED 2018         Node DQDH
+
+
+# define MAX_STATISTICAL_RESULTS 15     // NCIMM
+*     enum  StatsType {
+*     SIM,            // Simulated Mean*
+* 	  OBS,            // Observed Mean
+*  	  RMSE,           // Root Mean Square Error
+* 	  MAE,            // Mean Average Error
+* 	  MSLSE,          // Mean Simple Least Square Error
+* 	  STDSIM,         // Simulated Standard Deviation
+* 	  STDOBS,         // Simulated Standard Deviation
+*     SkewnessSim,    // Skewness of Simulated
+*     KurtosisSim,    // Kurtosis of Simulated
+*     SkewnessObs,    // Skewness of Observed
+*     KurtosisPbs,    // Kurtosis of Observed
+	  LogNASH,        // Log Nash–Sutcliffe Efficiency
+* 	  IndexD,         // Index of Agreement
+* 	  NASH};          // Nash–Sutcliffe Efficiency
