@@ -42,18 +42,18 @@
 
 
 # define MAX_STATISTICAL_RESULTS 15     // NCIMM
-*     enum  StatsType {
-*     SIM,            // Simulated Mean*
-*     OBS,            // Observed Mean
-*     RMSE,           // Root Mean Square Error
-*     MAE,            // Mean Average Error
-*     MSLSE,          // Mean Simple Least Square Error
-*     STDSIM,         // Simulated Standard Deviation
-*     STDOBS,         // Simulated Standard Deviation
-*     SkewnessSim,    // Skewness of Simulated
-*     KurtosisSim,    // Kurtosis of Simulated
-*     SkewnessObs,    // Skewness of Observed
-*     KurtosisPbs,    // Kurtosis of Observed
-*     LogNASH,        // Log Nash–Sutcliffe Efficiency
-*     IndexD,         // Index of Agreement
-*     NASH};          // Nash–Sutcliffe Efficiency
+*  enum  StatsType {
+*  SIM,            // Simulated Mean*
+*  OBS,            // Observed Mean
+*  RMSE,           // Root Mean Square Error
+*  MAE,            // Mean Average Error
+*  MSLSE,          // Mean Simple Least Square Error
+*  STDSIM,         // Simulated Standard Deviation
+*  STDOBS,         // Simulated Standard Deviation
+*  SkewnessSim,    // Skewness of Simulated
+*  KurtosisSim,    // Kurtosis of Simulated
+*  SkewnessObs,    // Skewness of Observed
+*  KurtosisPbs,    // Kurtosis of Observed
+*  LogNASH,        // Log Nash–Sutcliffe Efficiency
+*  IndexD,         // Index of Agreement
+*  NASH};          // Nash–Sutcliffe Efficiency
