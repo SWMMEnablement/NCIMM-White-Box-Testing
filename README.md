@@ -22,6 +22,8 @@
 
 # NCIMM White Box Calibration File Types
 
+> Calibration File Types for comparing various versions of SWMM
+
 * Flog,                     // Other SWMM5 Output File Comparion log   // NCIUMM 2018
 * FoutCompare,              // Other SWMM5 Output File                 //
 * Fall_log,                 // All log files combined                  // 
@@ -42,6 +44,9 @@
 
 
 #  MAX_STATISTICAL_RESULTS 
+
+> Observed and Simulated Statistical Momemnt used to compare simulation and observed 
+
 *  enum  StatsType {
 *  SIM,            // Simulated Mean*
 *  OBS,            // Observed Mean
